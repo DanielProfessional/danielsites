@@ -14,6 +14,8 @@ It's Simple:
 4) Finish coding in repo
 5) Done! You Will Find All The Info (Site URL and more) Into the README File of Repo
 
+# NOTE: Please Contact Us In The Discord (https://discord.gg/chaVdEDrgg) And Make Sure To Write Your GITHUB Profile (ex. github/DanielProfessional or github.com/DanielProfessional or @DanielProfessional)
+
 # Ready To Start?
 Ready To Start Using DanielSites?
 Check The Site [Here](https://danielsites.ga) (if you have an anti virus that blocks the site ignore that and go to site because it's safe)

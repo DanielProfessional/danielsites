@@ -1,5 +1,5 @@
 # DanielSites - Free Website Hosting
-An absolutely free website hosting service
+An absolutely free dynamic website hosting service. Lets you host HTML, CSS & JS websites under free subdomains.
 
 # Requirements to use the software
 - a Github account
